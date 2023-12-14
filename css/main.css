@@ -382,7 +382,8 @@ ul {
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-}
+  }
+}  
 
 @media (max-width: 520px) {
   .header__top {
